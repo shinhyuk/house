@@ -11,21 +11,3 @@ targets:
     exclusive_area: [58.0, 59.0]
     max_price: 1050000000
     priority: 1
-  - name: 등촌주공10단지
-    naver_complex_no: TODO
-    lawd_cd: "11500"
-    exclusive_area: [58.0, 60.0]
-    max_price: 1050000000
-    priority: 1
-  - name: 염창동아1차
-    naver_complex_no: TODO
-    lawd_cd: "11500"
-    exclusive_area: [58.0, 60.0]
-    max_price: 1050000000
-    priority: 2
-  - name: 관악드림타운
-    naver_complex_no: TODO
-    lawd_cd: "11620"
-    exclusive_area: [58.0, 60.0]
-    max_price: 1150000000
-    priority: 3
