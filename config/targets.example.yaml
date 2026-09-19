@@ -6,7 +6,7 @@ global:
 
 targets:
   - name: 가양6단지
-    naver_complex_no: TODO
+    naver_complex_no: "1347"
     lawd_cd: "11500"
     exclusive_area: [58.0, 59.0]
     max_price: 1050000000
