@@ -1,9 +1,9 @@
 name: apt-watch
 
+# Scheduled runs are temporarily disabled while the collector is being fixed.
+# Run manually from the Actions tab when testing.
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
